@@ -104,7 +104,7 @@ The system is fully styled using pure **CSS** with no external frameworks. Backe
 1. Place project folder under `htdocs/` if using XAMPP.
 2. Import the SQL file `dbschema_1210469.sql` into MySQL.
 3. Edit `dbconfig.inc.php` with your DB credentials.
-4. Access via: `http://localhost/webprojects/1210478/`
+4. Access via: `http://localhost/webprojects/1210469/`
 
 ---
 
